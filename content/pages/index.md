@@ -135,7 +135,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
         tagline: Research
-      - title: 200%
+      - title: 'Lectures on identities and prejudices in India '
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
