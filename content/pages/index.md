@@ -48,7 +48,7 @@ sections:
         fontStyle: italic
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: NEWS
       color: text-dark
       styles:
         self:
