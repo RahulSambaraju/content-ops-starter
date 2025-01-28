@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Handbook
-        subtitle: Numbers Done
+        subtitle: The Routledge Handbook of Discursive Psychology & Social Justice
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
