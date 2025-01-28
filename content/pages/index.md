@@ -39,10 +39,10 @@ sections:
         alignItems: flex-end
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-8
+          - pl-8
+          - pb-8
+          - pr-8
         justifyContent: flex-end
   - type: FeaturedItemsSection
     title:
