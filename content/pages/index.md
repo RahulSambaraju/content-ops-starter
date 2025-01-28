@@ -62,8 +62,14 @@ sections:
         text: >
           Delighted to share that along with Dr Simon Goodman I am editor of the
           Routledge Handbook of Discursive Psychology & Social Justice. The
-          Handbook comprises 7 sections: prejudice, migration and citizenship,
-          politics and conflict, social movements, the climate crisis, 
+          Handbook comprises 7 sections: prejudice, sexism, migration and
+          citizenship, politics and conflict, social movements, the climate
+          crisis, and health. With over 35 chapters, this mammoth and highly
+          relevant collection will outline cutting-edge scholarship on various
+          pressing issues in our societies from across the globe. Contributors
+          will show how discursive psychological research has been used to
+          provide significant insights into diverse issues. The Handbook should
+          be out in **2026**!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
