@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: New paper on race and racism
-        subtitle: The Job Stuff
+        subtitle: Racial Epistemics
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
