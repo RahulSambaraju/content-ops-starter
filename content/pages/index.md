@@ -94,10 +94,27 @@ sections:
               borderRadius: x-large
       - title: New paper on race and racism
         subtitle: Racial Epistemics
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          [https://doi.org/10.1111/bjso.12846
+          ](https://doi.org/10.1111/bjso.12846)
+
+
+          Social psychological research on race and racism has shown that claims
+          about racism are not always accepted or received as valid reports. In
+          this paper, I offer racial epistemics as one mechanism by which
+          race-talk takes place. I examine how ascribing category-bound
+          entitlements to experiential or other knowledge about racism is
+          variously realised and complicated in the production of claims about
+          racism. Through examining news media accounts where Black persons were
+          invited to talk about their experiences of racism in India, I show
+          that despite ascribing a privileged epistemic position to Black
+          persons, recipients (interviewers and other panellists) could make
+          salient epistemic entitlements to commonsense, specialised, or other
+          forms of (racial) knowledge in collaboratively establishing,
+          confirming or correcting, and challenging claims about racism in
+          India. The findings are discussed in relation to the broader
+          understanding of racism in social psychology. The data are in Indian
+          English.
         image:
           url: /images/Picture1.png
           altText: Featured icon two
