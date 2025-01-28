@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Handbook
-        subtitle: The Routledge Handbook of Discursive Psychologyand Social Justice
+        subtitle: The Routledge Handbook of Discursive Psychology & Social Justice
         text: >
           Delighted to share that along with Dr Simon Goodman I am editor of the
           Routledge Handbook of Discursive Psychology & Social Justice. The
