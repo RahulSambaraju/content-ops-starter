@@ -57,7 +57,7 @@ sections:
     subtitle: Current and upcoming activities
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Handbook
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
