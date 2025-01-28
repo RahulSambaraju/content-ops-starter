@@ -117,7 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: Racial Epistemics
+        tagline: Research
       - title: 200%
         subtitle: Faster
         text: >-
