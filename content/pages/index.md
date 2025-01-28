@@ -18,7 +18,7 @@ sections:
       that we do, using the menu tabs.
 
     actions:
-      - label: Get started
+      - label: Research Profile
         altText: ''
         url: /
         showIcon: false
