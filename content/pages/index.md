@@ -158,6 +158,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: Teaching
     actions:
       - label: Get started
         altText: ''
