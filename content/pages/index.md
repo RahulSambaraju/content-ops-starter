@@ -60,9 +60,9 @@ sections:
         title: Handbook
         subtitle: The Routledge Handbook of Discursive Psychology & Social Justice
         text: >
-          Delighted to share that along with Dr Simon Goodman I am editor of the
-          Routledge Handbook of Discursive Psychology & Social Justice. The
-          Handbook comprises 7 sections: prejudice, sexism, migration and
+          Delighted to share that along with Dr Simon Goodman I am editor of
+          *The Routledge Handbook of Discursive Psychology & Social Justice*.
+          The Handbook comprises 7 sections: prejudice, sexism, migration and
           citizenship, politics and conflict, social movements, the climate
           crisis, and health. With over 35 chapters, this mammoth and highly
           relevant collection will outline cutting-edge scholarship on various
