@@ -59,10 +59,11 @@ sections:
       - type: FeaturedItem
         title: Handbook
         subtitle: The Routledge Handbook of Discursive Psychology & Social Justice
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Delighted to share that along with Dr Simon Goodman I am editor of the
+          Routledge Handbook of Discursive Psychology & Social Justice. The
+          Handbook comprises 7 sections: prejudice, migration and citizenship,
+          politics and conflict, social movements, the climate crisis, 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
