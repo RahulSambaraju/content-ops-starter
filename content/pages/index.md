@@ -7,7 +7,7 @@ sections:
       text: Dr Rahul Sambaraju
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Discursive examination of social inclusion
     text: >+
       #### Namaste! I, Dr Rahul Sambaraju host this research space. We are at
       the forefront of studying social exclusion/inclusion through discursive
