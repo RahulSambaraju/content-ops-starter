@@ -8,14 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      ## Namaste! I, Dr Rahul Sambaraju host this research space. We are at the
-      forefront of studying social exclusion/inclusion through discursive
+    text: >+
+      ##### Namaste! I, Dr Rahul Sambaraju host this research space. We are at
+      the forefront of studying social exclusion/inclusion through discursive
       approaches. We use discursive psychology, membership categorization
       analysis, and conversation analysis to examine how we make sense of and
       navigate socially oppressive situations. Here, you'll find content related
       to current projects, publications, research collaborators, and other work
       that we do, using the menu tabs.
+
     actions:
       - label: Research Profile
         altText: ''
