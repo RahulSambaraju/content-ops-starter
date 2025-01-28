@@ -21,7 +21,7 @@ sections:
       - label: Research Profile
         altText: ''
         url: '/https://www.researchgate.net/profile/Rahul-Sambaraju?ev=hdr_xprf'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
